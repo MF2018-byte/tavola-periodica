@@ -1,0 +1,51 @@
+.intestazione{
+    background-color: darkturquoise;
+    text-align: center;
+    color: aliceblue;
+    padding: 15px;
+    border-style: solid;
+    border-color: aquamarine;
+    border-width: 4px;
+    border-radius: 20px;
+}
+
+
+.menu{
+    color: aliceblue;
+    padding: 4px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.Gatto{
+    position: absolute;
+    top: 500px;
+    left: 400px;
+}
+
+.giorgia{
+    color: darkcyan;
+    background-color: chartreuse;
+    text-align: center;
+    border-style: solid;
+    border-color: aquamarine;
+}
+
+
+.ciao{
+    text-align: center;
+}
+
+.fabiana{
+    color:darkcyan;
+    background-color: chartreuse;
+    border-style: solid;
+    border-color: aquamarine
+}
+
+
+.cio{
+    font-weight: bold;
+    font-size: medium;
+    color: rgb(102, 238, 193);
+}
